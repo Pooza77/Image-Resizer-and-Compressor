@@ -21,6 +21,6 @@ Language: Python
 Image Processing: Pillow (PIL), io
 
 Deployment: Streamlit Community Cloud or any Python-compatible server
-
+ Try : https://image-resizer-and-compress.streamlit.app/
 📂 Usage:
 Just upload an image, and the app will help you compress and convert it in a few simple steps. Ideal for web developers, designers, and anyone needing optimized images.
